@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
+## Pre-requsites
+This project is built on angular while using fxLayout and Angular Material liberary. So after running `npm i` run `npm install @angular/flex-layout` and `ng add @angular/material`.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
